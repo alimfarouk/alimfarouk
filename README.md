@@ -11,9 +11,13 @@ ________________________________________________________________________________
 **Tools & Tech**
 
 • React, TypeScript, Tailwind.
+
 • NodeJs, ExpressJs, NestJs, ASP Dotnet.
+
 • MongoDB, MySQL, PostgreSQL.
+
 • Postman, Swagger, APIDog.
+
 • Figma, Procreate.
 
 __________________________________________________________________________________________________________
@@ -21,7 +25,10 @@ ________________________________________________________________________________
 **A Bit About me**
 
 • 🐈‍⬛ I have 3 cats.
+
 • ☕️ A coffee person.
+
 • 🌆 Into Anime - JJK's my favourite.
+
 • 🧱 I like building stuff and see it come to life.
 

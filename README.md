@@ -1,16 +1,26 @@
-## Hi there 👋
+**Hey there! 👋🏼**
+I'm Ali Mohamed, a software engineer based in Cairo.
 
-<!--
-**alimfarouk/alimfarouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work on Web stuff - React, TypeScript, Tailwind, Nodejs, Expressjs  and a bit of animation with Framer Motion.
 
-Here are some ideas to get you started:
+I also use Figma for UI design and Procreate when i want to sketch ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__________________________________________________________________________________________________________
+
+**Tools & Tech**
+
+• React, TypeScript, Tailwind.
+• NodeJs, ExpressJs, NestJs, ASP Dotnet.
+• MongoDB, MySQL, PostgreSQL.
+• Postman, Swagger, APIDog.
+• Figma, Procreate.
+
+__________________________________________________________________________________________________________
+
+**A Bit About me**
+
+• 🐈‍⬛ I have 3 cats.
+• ☕️ A coffee person.
+• 🌆 Into Anime - JJK's my favourite.
+• 🧱 I like building stuff and see it come to life.
+

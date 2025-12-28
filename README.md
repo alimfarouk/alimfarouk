@@ -1,5 +1,6 @@
 **Hey there! 👋🏼**
-I'm Ali Mohamed, a software engineer based in Cairo.
+
+I'm Ali, a software engineer based in Cairo.
 
 I mostly work on Web stuff - React, TypeScript, Tailwind, Nodejs, Expressjs  and a bit of animation with Framer Motion.
 
